@@ -1,0 +1,27 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons-wind.css");
+
+.searchbar {
+  display: flex;
+}
+
+.row {
+  margin: 0 !important;
+}
+
+.two-side-sections {
+  display: flex;
+  width: 50%;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.temp {
+  margin: 0 !important;
+}
+
+.temp-value {
+  width: 20% !important;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
